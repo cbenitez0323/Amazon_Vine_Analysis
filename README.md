@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview of the analysis: 
-The purpose of the analysis is to see if there is a bias between reviews under the vine porgram versus the review not under the vine program. This is done by filtering out certain information out of a databse that contains information about Amazon reviews. From there the datafram was cleaned up by narrowing down the reviews by how helpful the review was voted and then seperating into two dataframes; one for the reviews under the vine program and the other for those not under the vine program. 
+The purpose of the analysis is to see if there is a bias between reviews under the vine program versus the review not under the vine program. This is done by filtering out certain information out of a databse that contains information about Amazon reviews. From there the dataframe was cleaned up by narrowing down the reviews by how helpful the review was voted and then seperating into two dataframes; one for the reviews under the vine program and the other for those not under the vine program. 
 
 ## Results: 
 <img width="1042" alt="Screen Shot 2022-08-12 at 1 12 33 PM" src="https://user-images.githubusercontent.com/102255823/184410638-48586d72-0536-42fa-ab36-200024f9f390.png">
